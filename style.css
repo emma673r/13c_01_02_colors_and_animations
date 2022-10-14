@@ -1,7 +1,7 @@
 /* Colors */
 
 :root {
-  --color-primary1: #eeeeee;
+  --color-primary1: hsl(0, 0%, 93%);
   --color-primary2: #d9d5d2;
   --color-primary3: #b6b1ad;
   --color-secondary1: #434348;
