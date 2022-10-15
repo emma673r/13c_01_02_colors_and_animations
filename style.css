@@ -223,7 +223,7 @@ clip-path: circle(50% at 50% 50%);
   border-radius: 300px;
 }
 
-.product_graphics object {
+.product_graphics svg {
   width: 100%;
   height: 100%;
 }
